@@ -2,9 +2,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3M3p2OWEwOHl6aTJ3ZXZjaHY2c2wyZTlwcjA1cXdyNWRkb2xpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif"  />
-</div>
+<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTAwd2F2ZGFudnd0bXphaGU2eTB6ZjZ4OGJmMzZoc2Z2bHdjdGdmMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif"  />
+
+###
+
+<h3 align="left">The Languages that I have already worked with:</h3>
 
 ###
 
@@ -52,13 +54,33 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoonz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif"  />
+<h3 align="center">My contact information:</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ricardo-costamilan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:ricardo@moonshotrobots.ai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ricardoonz/ricardoonz/output/snake.svg" alt="Snake animation" />
 
 ###
