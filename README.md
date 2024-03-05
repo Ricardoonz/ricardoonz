@@ -2,11 +2,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTAwd2F2ZGFudnd0bXphaGU2eTB6ZjZ4OGJmMzZoc2Z2bHdjdGdmMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif"  />
-
-###
-
-<h3 align="left">The Languages that I have already worked with:</h3>
+<h3 align="left">Languages that I have already worked with:</h3>
 
 ###
 
@@ -54,10 +50,13 @@
 
 ###
 
-<br clear="both">
+<img src="https://raw.githubusercontent.com/ricardoonz/ricardoonz/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoonz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="150" alt="languages graph"  />
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=ricardoonz&locale=en&mode=weekly&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoonz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -76,11 +75,5 @@
     <img src="https://img.shields.io/static/v1?message=Contact&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ricardoonz/ricardoonz/output/snake.svg" alt="Snake animation" />
 
 ###
