@@ -1,4 +1,4 @@
-<h2 align="center"> Hey! Ricardo here. 🙋‍♂️</h2>
+<h1 align="center"> Hey! Ricardo here. 🙋‍♂️</h1>
 
 ###
 
